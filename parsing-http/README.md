@@ -85,7 +85,7 @@ If you finish that before the warmup is done, please
 ## Gists
 
 * Andrew Deitrick - https://gist.github.com/deitrick/ca750df19252181450ee
-* Aubrey Howell -
+* Aubrey Howell - https://gist.github.com/simplyaubs/0848f7582cd2a535efcf
 * Bebe Peng - https://gist.github.com/bebepeng/800fd65dcb13354bac40
 * Cara Dennis -
 * Cory Leistikow - https://gist.github.com/BlueVajra/b0809ca0ccfe00194bf8
